@@ -10,11 +10,11 @@ config_version=5
 
 [application]
 
-config/name="Kinematic Character 2D Demo"
+config/name="Modular Kinematic Character 2D Demo"
 config/description="Example of how to make a kinematic character controller in 2D using
 CharacterBody2D. The character moves around, is affected by moving
 platforms, can jump through one-way collision platforms, etc."
-config/tags=PackedStringArray("2d", "demo", "official", "physics")
+config/tags=PackedStringArray("2d", "demo", "physics")
 run/main_scene="res://world.tscn"
 config/features=PackedStringArray("4.4")
 config/icon="res://icon.webp"
